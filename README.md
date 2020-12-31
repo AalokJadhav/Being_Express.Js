@@ -44,8 +44,8 @@
 # IMP
 
 ## Callback function as two parameters req(request) & res (response).
-	1.The # request object represents the HTPP request & has properties for the
+	1.The request object represents the HTPP request & has properties for the
 	  request query string, parameters, body, HTPP headers etc.
-	2.The # response object represents the HTPP response
+	2.The response object represents the HTPP response
 	  that the express app sends when it receives an HTPP request.
 		
